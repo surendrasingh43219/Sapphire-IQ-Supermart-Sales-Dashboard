@@ -1,0 +1,26 @@
+﻿,,,,Row Labels,Sum of Sales,,,,,,,Which  sub-categories generate the highest sales  and profit?,,,,. Which products have high sales but comparatively low profit?,,
+,,,,2015,2975599,,Which regions generate the highest sales and profit ?,,,,,Row Labels,Sum of Sales,Sum of Profit,,Row Labels,Sum of Sales,Sum of Profit
+Which categories and  generate the highest sales?,,,,2016,3131959,,Row Labels,Sum of Sales,Sum of Profit,,,Atta & Flour,534649,127861.1,,Atta & Flour,534649,127861.1
+"Eggs, Meat & Fish",2267401,,,2017,3871912,,Central,3468156,856806.84,,,Biscuits,684083,169357.62,,Biscuits,684083,169357.62
+,,,,2018,4977512,,East,4248368,1074345.58,,,Breads & Buns,742586,190764.98,,Breads & Buns,742586,190764.98
+Total sales,14956982,,,Grand Total,14956982,,North,1254,401.28,,,Cakes,685612,168398.46,,Cakes,685612,168398.46
+Total profit,3747121.2,,,,,,South,2440461,623562.89,,,Chicken,520497,124049.89,,Chicken,520497,124049.89
+,,,,How do sales change over time?,,,West,4798743,1192004.61,,,Chocolates,733898,183849.34,,Chocolates,733898,183849.34
+,,,,,,,Grand Total,14956982,3747121.2,,,Cookies,768213,190643.7,,Cookies,768213,190643.7
+,,,,,,,,,,,,Dals & Pulses,523371,130232.29,,Dals & Pulses,523371,130232.29
+,,,,,,,,,,,,Edible Oil & Ghee,668086,168593.58,,Edible Oil & Ghee,668086,168593.58
+,,,,,,,,,,,,Eggs,575156,144669.92,,Eggs,575156,144669.92
+Which states and cities generate the highest sales?,,,,,Which locations have high sales but comparatively low profit?,,,,,,,Fish,560548,147248.01,,Fish,560548,147248.01
+Row Labels,Sum of Sales,,Row Labels,Sum of Sales,Sum of Profit,,,,,,,Fresh Fruits,551212,134668.35,,Fresh Fruits,551212,134668.35
+Tamil Nadu,14956982,,Bodi,667177,173655.13,,,,,,,Fresh Vegetables,525842,131273.33,,Fresh Vegetables,525842,131273.33
+Grand Total,14956982,,Kanyakumari,706764,172217.74,,,,,,,Health Drinks,1051439,267469.79,,Health Drinks,1051439,267469.79
+,,,Perambalur,659738,171132.19,,,,,,,Masalas,697480,168999.11,,Masalas,697480,168999.11
+,,,Tirunelveli,659812,165169.01,,,,,,,Mutton,611200,151389.4,,Mutton,611200,151389.4
+,,,Vellore,676550,174073.01,,,,,,,Noodles,735435,193685.81,,Noodles,735435,193685.81
+,,,Grand Total,3370041,856247.08,,,,,,,Organic Fruits,503402,130862.33,,Organic Fruits,503402,130862.33
+"Tamil Nadu generates ₹1,49,56,982 in sales. It is the only state present in your dataset.",,,,,,,,,,,,Organic Staples,558929,144136.89,,Organic Staples,558929,144136.89
+,,,,,,,,,,,,Organic Vegetables,520271,133596.37,,Organic Vegetables,520271,133596.37
+,,,,,,,,,,,,Rice,498323,126932.36,,Rice,498323,126932.36
+,,,,,,,,,,,,Soft Drinks,1033874,258135.97,,Soft Drinks,1033874,258135.97
+,,,,,,,,,,,,Spices,672876,160302.6,,Spices,672876,160302.6
+,,,,,,,,,,,,Grand Total,14956982,3747121.2,,Grand Total,14956982,3747121.2
