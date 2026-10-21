@@ -132,10 +132,7 @@ Sapphire-IQ-Supermart-Sales-Dashboard/
 ## 👨‍💻 Author
 
 **Surendra Singh**
-
-B.Tech — Artificial Intelligence & Data Science
-
-**Project:** Sapphire IQ Supermart Grocery Sales Dashboard
+**Project:** Sapphire IQ Supermart Grocery Sales Dashboard (Project 2)
 
 ## ⭐ Conclusion
 
